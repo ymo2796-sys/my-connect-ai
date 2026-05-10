@@ -1,0 +1,11 @@
+{
+  "ceo": "qwen3.6:latest",
+  "secretary": "qwen3.6:latest",
+  "youtube": "qwen3.6:latest",
+  "researcher": "qwen3.6:latest",
+  "business": "qwen3.6:latest",
+  "writer": "qwen3.6:latest",
+  "editor": "qwen3.6:latest",
+  "designer": "qwen3.6:latest",
+  "instagram": "qwen3.6:latest"
+}

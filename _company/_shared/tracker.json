@@ -1,0 +1,79 @@
+{
+  "tasks": [
+    {
+      "id": "20260510150424-64u2",
+      "title": "1문장이 1번의 호흡(약 2초)에 들어오는가? (들어오지 않으면 분할)",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-10T15:04:24.675Z",
+      "status": "pending",
+      "sessionDir": "2026-05-10T14-48",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260510150424-6z43",
+      "title": "10초마다 1개의 새로운 정보/시각적 전환이 있는가?",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-10T15:04:24.681Z",
+      "status": "pending",
+      "sessionDir": "2026-05-10T14-48",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260510150424-tbqg",
+      "title": "15초/30초/45초 지점에 시각적 변화 또는 브릿지 문구가 있는가?",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-10T15:04:24.683Z",
+      "status": "pending",
+      "sessionDir": "2026-05-10T14-48",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260510150424-9s2k",
+      "title": "전체 문장 중 15자 이상 문장이 0개인가?",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-10T15:04:24.687Z",
+      "status": "pending",
+      "sessionDir": "2026-05-10T14-48",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    },
+    {
+      "id": "20260510150424-0m23",
+      "title": "나레이션 시작과 첫 프레임 컷이 0.0초에 동기화되는가?",
+      "description": "자동 등록 (Writer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "writer"
+      ],
+      "createdAt": "2026-05-10T15:04:24.690Z",
+      "status": "pending",
+      "sessionDir": "2026-05-10T14-48",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": []
+    }
+  ]
+}

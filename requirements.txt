@@ -1,0 +1,7 @@
+yt-dlp
+ffmpeg-python
+moviepy<2.0.0
+openai
+python-dotenv
+easyocr
+opencv-python

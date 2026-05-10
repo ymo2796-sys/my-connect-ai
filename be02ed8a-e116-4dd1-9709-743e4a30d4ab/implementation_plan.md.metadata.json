@@ -1,0 +1,7 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "도우인 쇼츠 메이커 구현 계획 (자막 제거 및 Vision AI 피드백 반영)",
+  "updatedAt":  "2026-05-08T22:22:18.706271Z",
+  "version":  "1",
+  "requestFeedback":  true
+}

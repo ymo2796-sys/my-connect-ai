@@ -84,6 +84,74 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-10T14-48/_report.md\n- 레오: 쇼츠 제작 사양 2단계를 정의해줘. 0~3초 후크 구조, 편집 템포(컷 간격), 자막 위치/폰트/색상 규칙, 화면비 안전지대, 그리고 초기 14\n- Writer: 작성된 사양에 맞춰 실제 촬영/편집에 바로 적용할 수 있는 '0~3초 이탈 방지 후크 문구 템플릿 5가지'와 '시청 지속률 70% 이상을 위한 \n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📺 레오 _(Head of YouTube)_\n> 📋 **지시**: 쇼츠 제작 사양 2단계를 정의해줘. 0~3초 후크 구조, 편집 템포(컷 간격), 자막 위치/폰트/색상 규칙, 화면비 안전지대, 그리고 초기 14일 분류 기간 대응 업로드 시간대 및 해시태그 전략을 상세하게 정리해.\n> 🔧 **도구 실행*",
       "completedAt": "2026-05-10T15:11:33.746Z"
+    },
+    {
+      "id": "20260510163539-8tbs",
+      "title": "프레임 내 제품 면적 ≥ 40%",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-10T16:35:39.387Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T23-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T23-55/_report.md\n- Developer: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API \n- 영숙: 신규 상담사 '제니'의 팀 등록을 공식화하고, 사내 에이전트 구성원 목록 및 역할 분담서를 최신 상태로 동기화하여 모든 에이전트에게 공지하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 Developer _(Lead Engineer)_\n> 📋 **지시**: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API 연동 구조를 코드에 반영하고 에이전트 매핑을 완료하세요.\n> 🔧 **도구 실행**: ",
+      "completedAt": "2026-05-11T00:09:29.949Z"
+    },
+    {
+      "id": "20260510163539-g5tq",
+      "title": "자막 위치 `ffmpeg` `drawtext` y=H*0.85 기준",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-10T16:35:39.392Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T23-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T23-55/_report.md\n- Developer: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API \n- 영숙: 신규 상담사 '제니'의 팀 등록을 공식화하고, 사내 에이전트 구성원 목록 및 역할 분담서를 최신 상태로 동기화하여 모든 에이전트에게 공지하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 Developer _(Lead Engineer)_\n> 📋 **지시**: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API 연동 구조를 코드에 반영하고 에이전트 매핑을 완료하세요.\n> 🔧 **도구 실행**: ",
+      "completedAt": "2026-05-11T00:09:29.958Z"
+    },
+    {
+      "id": "20260510163539-mjub",
+      "title": "명암비 ≥ 3:1 (모바일 화면에서 잘 보임)",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-10T16:35:39.395Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T23-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T23-55/_report.md\n- Developer: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API \n- 영숙: 신규 상담사 '제니'의 팀 등록을 공식화하고, 사내 에이전트 구성원 목록 및 역할 분담서를 최신 상태로 동기화하여 모든 에이전트에게 공지하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 Developer _(Lead Engineer)_\n> 📋 **지시**: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API 연동 구조를 코드에 반영하고 에이전트 매핑을 완료하세요.\n> 🔧 **도구 실행**: ",
+      "completedAt": "2026-05-11T00:09:29.963Z"
+    },
+    {
+      "id": "20260510163539-bnuy",
+      "title": "0~3초 구간 중 가장 빠른 모션 또는 색상 대비 프레임",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-10T16:35:39.399Z",
+      "status": "done",
+      "sessionDir": "2026-05-10T23-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-10T23-55/_report.md\n- Developer: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API \n- 영숙: 신규 상담사 '제니'의 팀 등록을 공식화하고, 사내 에이전트 구성원 목록 및 역할 분담서를 최신 상태로 동기화하여 모든 에이전트에게 공지하세요.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 💻 Developer _(Lead Engineer)_\n> 📋 **지시**: agent/counselor_agent.py 파일을 수정하여 제니의 역할(친절하고 전문적인 상담사), 기본 톤앤매너, 상담 프로토콜 및 API 연동 구조를 코드에 반영하고 에이전트 매핑을 완료하세요.\n> 🔧 **도구 실행**: ",
+      "completedAt": "2026-05-11T00:09:29.967Z"
     }
   ]
 }

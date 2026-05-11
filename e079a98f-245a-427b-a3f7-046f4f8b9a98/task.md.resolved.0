@@ -1,0 +1,11 @@
+# Counselor Agent Implementation Tasks
+
+- `[/]` Create base agent structure
+  - `[ ]` `agent/counselor_agent.py`
+- `[ ]` Create external integration skills
+  - `[ ]` `agent/skills/outbound_call.py` (Vapi/Twilio placeholder)
+  - `[ ]` `agent/skills/kakao_integration.py` (Kakao API placeholder)
+- `[ ]` Create webhook server
+  - `[ ]` `webhook_server.py`
+- `[ ]` Verification
+  - `[ ]` Write mock tests or verification script

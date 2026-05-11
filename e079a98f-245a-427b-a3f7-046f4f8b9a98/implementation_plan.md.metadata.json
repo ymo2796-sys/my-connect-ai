@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "아웃바운드 콜 및 카카오톡 발주 연동 상담사 에이전트 추가를 위한 구현 계획서입니다. 외부 서비스 연동 방식 및 아키텍처 설계를 포함합니다.",
+  "updatedAt":  "2026-05-10T23:48:49.993883Z",
+  "requestFeedback":  true
+}
